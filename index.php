@@ -74,9 +74,9 @@ if(isset($message)){
 
    <div class="follow">
       
-      <a href="https://twitter.com/Poojachougule16" class="fab fa-twitter"></a>
-      <a href="https://linkedin.com/in/pooja-chougule-037a71237" class="fab fa-linkedin"></a>
-      <a href="https://github.com/PoojaChougule21" class="fab fa-github"></a>
+      <a href="https://twitter.com/Poojachougule16" class="fab fa-twitterTwittera>
+      <a href="https://linkedin.com/in/pooja-chougule-037a71237" class="fab fa-linkedin">Linkedin</a>
+      <a href="https://github.com/PoojaChougule21" class="fab fa-github">Github</a>
    </div>
 
 </header>
