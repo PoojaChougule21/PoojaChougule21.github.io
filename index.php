@@ -74,7 +74,7 @@ if(isset($message)){
 
    <div class="follow">
       
-      <a href="https://twitter.com/Poojachougule16" class="fab fa-twitterTwittera>
+      <a href="https://twitter.com/Poojachougule16" class="fab fa-twitter">Twitter</a>
       <a href="https://linkedin.com/in/pooja-chougule-037a71237" class="fab fa-linkedin">Linkedin</a>
       <a href="https://github.com/PoojaChougule21" class="fab fa-github">Github</a>
    </div>
@@ -217,16 +217,16 @@ if(isset($message)){
       <div class="box" data-aos="zoom-in">
          <i class="fa-solid fa-film"></i>
          <h3>Online Movie Ticket Booking System</h3>
-         <p> It is website used to book the movie tickets. It is designed and developed by using these following <br>
+         <p> It is website used to book the movie tickets. It is designed and developed using following <br>
             Frontend :   HTML,CSS,JavaScript <br>
             Backend Language :  PHP <br>
             Database : MySQL</p>
       </div>
 
   <div class="box" data-aos="zoom-in">
-      <i class=" fas fa-pencil-alt"></i>
+      <i class=" fa fa-cog"></i>
          <h3>Auto Spare Parts Management System</h3>
-         <p>It is software designed and developed by using these following <br>
+         <p>It is software designed and developed using following <br>
              Frontend :  Java swings <br>
              Backend Language : SQL <br>
              Database :  Oracle</p>
@@ -234,15 +234,11 @@ if(isset($message)){
       </div>
 
       <div class="box" data-aos="zoom-in">
-         <i class="fas fa-cloud-sun"></i>
+         <i class="fa-solid fa-leaf"></i>
          <h3>LeafNow website</h3>
-         <p>This is website designed to connect Nature enthusiasts for exchanging and donating plants leading to Gogreen
-         <br>
-              
-             
-         Frontend : HTML,CSS,JavaScript <br>
-               API:Open Weather Map API
-         </p>
+         <p>This is website designed to connect Nature enthusiasts for exchanging and donating plants leading to Gogreen<br>
+            Frontend : HTML,CSS,PHP<br>
+            Backend Language : SQL </p>
       </div>
 
    
